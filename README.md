@@ -9,7 +9,7 @@ My very first C project, from the stone age.
 <br>
 
 ## TODO :
-- **
+- *Give it to a museum*
 
 <br>
 
