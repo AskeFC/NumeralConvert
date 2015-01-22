@@ -1,5 +1,5 @@
 # NumeralConvert
-#### (GPL 2.0)
+#### ([GPL 2.0](https://www.gnu.org/licenses/gpl-2.0.html))
 I revived small parts of an ancient harddrive that was lying around from 4000 B.C.
 This was apparently the first alpha for the very first C programming I did.
 So funny to see how horribly I coded decades ago. =o)
