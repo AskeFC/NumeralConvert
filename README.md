@@ -1,6 +1,8 @@
 # NumeralConvert
 #### (GPL 2.0)
-My very first C project, from the stone age.
+I revived small parts of an ancient harddrive that was lying around from 4000 B.C.
+This was apparently the first alpha for the very first C programming I did.
+So funny to see how horribly I coded decades ago. =o)
 
 > **Disclaimer :**
 
