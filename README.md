@@ -13,7 +13,7 @@ So funny to see how horribly I coded decades ago. =o)
 <br>
 
 ## TODO :
-- *Give it to a museum*
+- [ ] *Give it to a museum*
 
 <br>
 
